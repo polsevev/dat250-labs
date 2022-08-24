@@ -14,7 +14,7 @@ I just tested it with the tiny example app by heroku and that worked perfectly, 
 
 The only issue i had with heroku was that there were no guide on how to install on linux. Luckily AUR (Arch user repository) had the heroku cli avalible. 
 
-## Pendin issues
+## Pending issues
 
 No pending issues
 
