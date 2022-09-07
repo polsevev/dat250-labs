@@ -17,7 +17,7 @@ Here is a list:
 Ended up solving all these, other than  that i encountered no techical issues. 
 
 Code is placed in this repository in the "Assignement2" folder. 
-Link: [Assignement 2]("./Assignement2/")
+Link: [Assignement 2](Assignement2/experiment-2)
 
 I inspected the database tables using Intellij after it was showed to me at the group session. 
 
