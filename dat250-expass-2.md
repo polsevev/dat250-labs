@@ -19,4 +19,4 @@ I inspected the database tables using Intellij after it was showed to me at the 
 
 Here is an image:
 
-[image]("https://postimg.cc/KkCzgGp8")
+[image](https://postimg.cc/KkCzgGp8)
