@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 07 15:15:37 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0183-1817-8326-000001442c28 
+on database directory /home/rolfmg/Coding/dat250/dat250-jpa-example/eclipselink/experiment-2/db/experiment2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/home/rolfmg/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=N/A
+java.runtime.version=18.0.2+9
+user.dir=/home/rolfmg/Coding/dat250/dat250-jpa-example/eclipselink/experiment-2
+os.name=Linux
+os.arch=amd64
+os.version=5.10.136-1-MANJARO
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
