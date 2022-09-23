@@ -31,5 +31,4 @@ Here is a provided screenshot:
 
 ![image](./Screenshots/MapReduce.png)
 
-In my opinion this operation is not very useful, i am just not very creative when no real requirement for the operation is given.... 
-
+In my opinion this operation is not very useful, i am just not very creative when no real requirement for the operation is given.
