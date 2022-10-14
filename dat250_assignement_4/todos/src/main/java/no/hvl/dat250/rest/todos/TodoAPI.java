@@ -76,6 +76,7 @@ public class TodoAPI {
                     return "Deletion successfull!";
                 }
             }
+            System.out.println("Deleted!");
             return String.format("Todo with the id \"%s\" not found!", idString);
         }));
 
